@@ -1,0 +1,16 @@
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.exe
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.deps.json
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.runtimeconfig.json
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.dll
+D:\progect\Csharp\Hello\bin\Debug\net5.0\ref\Hello.dll
+D:\progect\Csharp\Hello\bin\Debug\net5.0\Hello.pdb
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.csproj.AssemblyReference.cache
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.dll
+D:\progect\Csharp\Hello\obj\Debug\net5.0\ref\Hello.dll
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.pdb
+D:\progect\Csharp\Hello\obj\Debug\net5.0\Hello.genruntimeconfig.cache

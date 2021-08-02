@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Csharp
+namespace Hello
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello World");
-        }       
+            Console.Write("Hello World");
+        }
+
     }
+
 }
