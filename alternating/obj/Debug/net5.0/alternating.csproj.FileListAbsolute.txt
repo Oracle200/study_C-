@@ -1,0 +1,16 @@
+D:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.exe
+d:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.deps.json
+d:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.runtimeconfig.json
+d:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.runtimeconfig.dev.json
+D:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.dll
+d:\progect\Csharp\alternating\bin\Debug\net5.0\ref\alternating.dll
+D:\progect\Csharp\alternating\bin\Debug\net5.0\alternating.pdb
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.csproj.AssemblyReference.cache
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.AssemblyInfoInputs.cache
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.AssemblyInfo.cs
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.dll
+D:\progect\Csharp\alternating\obj\Debug\net5.0\ref\alternating.dll
+D:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.pdb
+d:\progect\Csharp\alternating\obj\Debug\net5.0\alternating.genruntimeconfig.cache
