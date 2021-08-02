@@ -6,7 +6,7 @@ namespace Csharp
     {
         static void Main()
         {
-            Console.WriteLine("Привет,\nя Василий!");
+            Console.WriteLine("Hello World");
         }       
     }
 }
