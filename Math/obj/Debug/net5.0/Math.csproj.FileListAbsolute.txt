@@ -1,0 +1,16 @@
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.exe
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.deps.json
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.runtimeconfig.json
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.runtimeconfig.dev.json
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.dll
+D:\progect\Csharp\Math\bin\Debug\net5.0\ref\Math.dll
+D:\progect\Csharp\Math\bin\Debug\net5.0\Math.pdb
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.csproj.AssemblyReference.cache
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.dll
+D:\progect\Csharp\Math\obj\Debug\net5.0\ref\Math.dll
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.pdb
+D:\progect\Csharp\Math\obj\Debug\net5.0\Math.genruntimeconfig.cache
