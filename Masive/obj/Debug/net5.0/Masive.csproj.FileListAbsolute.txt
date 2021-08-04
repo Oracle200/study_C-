@@ -1,0 +1,16 @@
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.exe
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.deps.json
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.runtimeconfig.json
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.runtimeconfig.dev.json
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.dll
+D:\progect\Csharp\Masive\bin\Debug\net5.0\ref\Masive.dll
+D:\progect\Csharp\Masive\bin\Debug\net5.0\Masive.pdb
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.csproj.AssemblyReference.cache
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.AssemblyInfoInputs.cache
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.AssemblyInfo.cs
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.dll
+D:\progect\Csharp\Masive\obj\Debug\net5.0\ref\Masive.dll
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.pdb
+D:\progect\Csharp\Masive\obj\Debug\net5.0\Masive.genruntimeconfig.cache
