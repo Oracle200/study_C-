@@ -1,0 +1,16 @@
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.exe
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.deps.json
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.runtimeconfig.json
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.runtimeconfig.dev.json
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.dll
+D:\progect\Csharp\For_While\bin\Debug\net5.0\ref\For_While.dll
+D:\progect\Csharp\For_While\bin\Debug\net5.0\For_While.pdb
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.csproj.AssemblyReference.cache
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.AssemblyInfoInputs.cache
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.AssemblyInfo.cs
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.dll
+D:\progect\Csharp\For_While\obj\Debug\net5.0\ref\For_While.dll
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.pdb
+D:\progect\Csharp\For_While\obj\Debug\net5.0\For_While.genruntimeconfig.cache
