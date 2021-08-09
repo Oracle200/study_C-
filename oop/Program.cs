@@ -4,9 +4,11 @@ namespace oop
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            auto lada = new auto();
+            lada.zap(1800, "lada", 'g', 156.7);
+            lada.print();
         }
     }
 }
