@@ -4,11 +4,22 @@ namespace constructor
 {
     class home
     {
-        private byte etaj;
-        private int year;
-        private string name;
+        private byte etaj = 1;
+        private int year = 2020;
+        private string name = "Norma";
 
-        public void Zap(byte _e, int _y, string _n)
+        public home()
+        {
+            System.Console.WriteLine("Empty constructor!");
+        }
+
+        public home(int ye, string na)
+        {
+            year = ye;
+            name = na;
+        }
+
+        public home(byte _e, int _y, string _n)
         {
             etaj = _e;
             year = _y;
@@ -33,7 +44,6 @@ namespace constructor
                 System.Console.WriteLine("веддён не коректный год");
                 return 0;
             }
-
         }
     }
 }
