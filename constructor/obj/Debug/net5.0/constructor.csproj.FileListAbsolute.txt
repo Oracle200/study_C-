@@ -1,0 +1,16 @@
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.exe
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.deps.json
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.runtimeconfig.json
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.runtimeconfig.dev.json
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.dll
+D:\progect\Csharp\constructor\bin\Debug\net5.0\ref\constructor.dll
+D:\progect\Csharp\constructor\bin\Debug\net5.0\constructor.pdb
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.csproj.AssemblyReference.cache
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.AssemblyInfoInputs.cache
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.AssemblyInfo.cs
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.dll
+D:\progect\Csharp\constructor\obj\Debug\net5.0\ref\constructor.dll
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.pdb
+D:\progect\Csharp\constructor\obj\Debug\net5.0\constructor.genruntimeconfig.cache
