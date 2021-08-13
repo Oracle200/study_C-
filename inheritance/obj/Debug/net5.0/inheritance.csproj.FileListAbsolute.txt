@@ -1,0 +1,16 @@
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.exe
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.deps.json
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.dll
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\ref\inheritance.dll
+D:\progect\Csharp\inheritance\bin\Debug\net5.0\inheritance.pdb
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.dll
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\ref\inheritance.dll
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.pdb
+D:\progect\Csharp\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
