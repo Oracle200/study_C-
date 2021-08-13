@@ -6,7 +6,13 @@ namespace get_set
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person one = new Person();
+            one.Age = 150;
+            one.Age = 54;
+            one.Age = -100;
+
+            amount car = new amount();
+            System.Console.WriteLine(car.Wheels);
         }
     }
 }
