@@ -13,31 +13,31 @@ namespace constructor
             System.Console.WriteLine("Empty constructor!");
         }
 
-        public home(int ye, string na)
+        public home(int year, string name)
         {
-            year = ye;
-            name = na;
+            this.year = year;
+            this.name = name;
         }
 
-        public home(byte _e, int _y, string _n)
+        public home(byte etaj, int year, string name)
         {
-            etaj = _e;
-            year = _y;
-            name = _n;
+            this.etaj = etaj;
+            this.year = year;
+            this.name = name;
         }
 
         public void Print()
         {
-            System.Console.WriteLine(name);
-            System.Console.WriteLine("Год постройки: " + year);
-            System.Console.WriteLine("Кол-во этажей: " + etaj);
+            System.Console.WriteLine(this.name);
+            System.Console.WriteLine("Год постройки: " + this.year);
+            System.Console.WriteLine("Кол-во этажей: " + this.etaj);
         }
 
         public int Let(int mainYear)
         {
-            if (mainYear > year)
+            if (mainYear > this.year)
             {
-                return mainYear - year;
+                return mainYear - this.year;
             }
             else
             {
